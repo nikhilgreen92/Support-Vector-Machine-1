@@ -1,1 +1,4 @@
 # Support-Vector-Machine-1
+The data set of healthcare stroke is available with various inputs. Information of all sets of columns has been derived using basic commands info, head, null values, count values etc. The null values available have been cleaned. Later EDA has been incorporated to extract the desired information out of given data. In the later part of processing we have now encoded the categorical variables and applied train test split. Finally the model has been evaluated after hypertuning and conculsion has been given. 
+
+The conclusion derived is : The model finally can predict 94.19% times the correct accuracy if the person will happen to have stroke or not. While 5.81% times the model is unable to predict. We have achieved a better precision with high accuracy thus model can be used for future aspirations. Although accuracy is higher, a more better hypertuning can further increase the accuracy.
